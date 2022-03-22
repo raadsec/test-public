@@ -2,7 +2,7 @@
   "swagger": "2.0",
   "info": {
   "title": "Swagger Sample App",
-  "description": "<script>alert(1)</script>asdsadas to click Terms of service",
+  "description": "<img/src='x'/onerror=alert(1)>asdsadas to click Terms of service",
   "termsOfService": "http://aa.aa/",
   "version": "1.0.1"
 },
