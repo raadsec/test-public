@@ -2,7 +2,7 @@
   "swagger": "2.0",
   "info": {
   "title": "Swagger Sample App",
-  "description": "<h1>HTML Injection</h1>Click <a href='http://bad.site/'>Malicious Link</a> to click Terms of service",
+  "description": "<h1>HTML Injection</h1>Click <a href='javascript:alert(1)'>Malicious Link</a> to click Terms of service",
   "termsOfService": "http://bad.site/",
   "version": "1.0.1"
 },
